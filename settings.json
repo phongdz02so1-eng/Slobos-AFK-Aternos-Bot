@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "monlight.play.hosting",
+    "ip": "62.141.62.27",
     "port": 14045,
     "version": "1.20.1",
     "try-creative": false
